@@ -9,5 +9,5 @@ I'm a former baseball player and instructor who has transitioned into business a
 - IMDb Movie Data Analysis with Tableau
 - (More projects coming soon)
 
-#Tools Used
-SQL · Excel · Tableau
+# Tools Used
+**SQL · Excel · Tableau**
