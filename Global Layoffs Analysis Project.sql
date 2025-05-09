@@ -1,5 +1,6 @@
 /* Global Layoffs Project Data Cleaning */
 -- Skills Used: Data Aggregation, Filtering, Grouping, Window Functions, CTEs, and Subqueries
+-- Dataset Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022/code
 
 SELECT * FROM layoffs;
 
