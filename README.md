@@ -5,8 +5,8 @@ I'm a former baseball player and instructor who has transitioned into business a
 
 # Projects
 - 2022 US Household Income Analysis
-- Global Life Expectancy Analysis
-- IMDb Movie Data Analysis with Tableau
+- World Life Expectancy Analysis
+- Global Layoffs Analysis
 - (More projects coming soon)
 
 # Tools Used
