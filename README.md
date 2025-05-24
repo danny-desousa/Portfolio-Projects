@@ -2,7 +2,7 @@
 
 ## Welcome
 
-I'm a former baseball player and instructor who has transitioned into business analytics. I bring the same discipline, curiosity, and drive into data—looking for patterns, asking the right questions, and solving problems with real-world datasets. This repository showcases hands-on analytics projects developed using SQL, Excel, and Tableau.
+I'm a former baseball player and instructor who has transitioned into business analytics, bringing the same discipline, curiosity, and drive to uncover patterns and solve problems with data. This repository showcases hands-on projects I've developed using SQL, Excel, and Tableau.
 
 ## Projects
 
