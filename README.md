@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## Welcome
+## Welcome!
 
 I'm a former baseball player and instructor who has transitioned into business analytics, bringing the same discipline, curiosity, and drive to uncover patterns and solve problems with data. This repository showcases hands-on projects I've developed using SQL, Excel, and Tableau.
 
